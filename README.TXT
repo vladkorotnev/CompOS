@@ -1,3 +1,7 @@
+This is the fork of MikeOS, customized. Has bootlogo. Graphical bootlogo. The OS for COMPuters, not for "Cool hot things with OVER 9000 GHZ and DDR3" :) 
+Original read me below.
+Sincerely,
+~ Vladislav Korotnev
 ==================================================================
 MikeOS -- Open source 16-bit operating system for x86 PCs
 Copyright (C) 2006 - 2011 MikeOS Developers -- see doc/LICENSE.TXT
